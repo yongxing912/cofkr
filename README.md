@@ -1,5 +1,5 @@
-# C-code-of-diamond-figure
+# C-for-beginners
 
 Date:2018-3-26,My First Github Contact
 
-print a diamond figure of star and associated with user-defined line number
+some code with C for beginner
