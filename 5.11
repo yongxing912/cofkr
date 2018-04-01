@@ -1,0 +1,2 @@
+topic:Pointers to Functions
+In C, a function is not a variable,but it is possible to define pointers to functions,which can be assigned,placed in arrays,passed to functions,returned by functions,and so on.
